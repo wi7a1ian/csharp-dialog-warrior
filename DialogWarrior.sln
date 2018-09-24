@@ -1,0 +1,44 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30723.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DialogWarrior", "DialogWarrior\DialogWarrior.csproj", "{1659F56F-3866-41EE-936E-261483DAE688}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UTDialogWarrior", "UTDialogWarrior\UTDialogWarrior.csproj", "{4B843000-FE5F-4A43-8120-617AB8771C82}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|Mixed Platforms = Debug|Mixed Platforms
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|Mixed Platforms = Release|Mixed Platforms
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1659F56F-3866-41EE-936E-261483DAE688}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1659F56F-3866-41EE-936E-261483DAE688}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1659F56F-3866-41EE-936E-261483DAE688}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{1659F56F-3866-41EE-936E-261483DAE688}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{1659F56F-3866-41EE-936E-261483DAE688}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{1659F56F-3866-41EE-936E-261483DAE688}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1659F56F-3866-41EE-936E-261483DAE688}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1659F56F-3866-41EE-936E-261483DAE688}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{1659F56F-3866-41EE-936E-261483DAE688}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{1659F56F-3866-41EE-936E-261483DAE688}.Release|x86.ActiveCfg = Release|Any CPU
+		{4B843000-FE5F-4A43-8120-617AB8771C82}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{4B843000-FE5F-4A43-8120-617AB8771C82}.Debug|Mixed Platforms.ActiveCfg = Debug|x86
+		{4B843000-FE5F-4A43-8120-617AB8771C82}.Debug|Mixed Platforms.Build.0 = Debug|x86
+		{4B843000-FE5F-4A43-8120-617AB8771C82}.Debug|x86.ActiveCfg = Debug|x86
+		{4B843000-FE5F-4A43-8120-617AB8771C82}.Debug|x86.Build.0 = Debug|x86
+		{4B843000-FE5F-4A43-8120-617AB8771C82}.Release|Any CPU.ActiveCfg = Release|x86
+		{4B843000-FE5F-4A43-8120-617AB8771C82}.Release|Mixed Platforms.ActiveCfg = Release|x86
+		{4B843000-FE5F-4A43-8120-617AB8771C82}.Release|Mixed Platforms.Build.0 = Release|x86
+		{4B843000-FE5F-4A43-8120-617AB8771C82}.Release|x86.ActiveCfg = Release|x86
+		{4B843000-FE5F-4A43-8120-617AB8771C82}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
