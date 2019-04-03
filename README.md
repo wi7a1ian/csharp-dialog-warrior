@@ -1,10 +1,10 @@
 # Info
-  This brave warrior can kill any type of dragon (DialogBox/MessageWindow).
-  He can simply use his sword to kill the dragon (close the window),
-  use one of the spells he learned in the academy (press "Yes"/"No"/"Cancel")
-  or you can teach him some super spell (target custom button name).
+    This brave warrior can kill any type of dragon (DialogBox/MessageWindow).
+    He can simply use his sword to kill the dragon (close the window),
+    use one of the spells he learned in the academy (press "Yes"/"No"/"Cancel")
+    or you can teach him some super spell (target custom button name).
 
-  Give him quests and he will embark on never ending journey! For the glory of brave ones!
+    Give him quests and he will embark on never ending journey! For the glory of brave ones!
 
 # Usage
 ```csharp
