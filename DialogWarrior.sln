@@ -1,11 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2013
-VisualStudioVersion = 12.0.30723.0
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.539
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DialogWarrior", "DialogWarrior\DialogWarrior.csproj", "{1659F56F-3866-41EE-936E-261483DAE688}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UTDialogWarrior", "UTDialogWarrior\UTDialogWarrior.csproj", "{4B843000-FE5F-4A43-8120-617AB8771C82}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DialogWarriorUsage", "DialogWarriorUsage\DialogWarriorUsage.csproj", "{4B843000-FE5F-4A43-8120-617AB8771C82}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -40,5 +40,8 @@ Global
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E788E5CE-53B7-491F-9F2B-CD68F6EEDD5B}
 	EndGlobalSection
 EndGlobal

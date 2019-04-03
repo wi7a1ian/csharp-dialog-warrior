@@ -6,7 +6,7 @@ using System.Runtime.InteropServices;
 using System.Diagnostics;
 using System.Threading;
 
-namespace Kroll.CDG.Fixer.Utils
+namespace Utils
 {
 
     /**
@@ -170,7 +170,7 @@ namespace Kroll.CDG.Fixer.Utils
             questLog.Add(new QuestItem { dragonToSearchFor = dragonsName, specialSpellToUse = spell, typeOfQuest = QuestType.KillTheDragonUsingOtherSpell });
         }
 
-        public void EmbarkOnAJourney()
+        public void EmbarkOnAnAdventure()
         {
             _isAliveAndKicking = true;
 

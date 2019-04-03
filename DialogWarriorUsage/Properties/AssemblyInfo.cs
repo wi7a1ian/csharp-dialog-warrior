@@ -5,12 +5,12 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("UTDialogWarrior")]
+[assembly: AssemblyTitle("DialogWarriorUsage")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("Altegrity")]
-[assembly: AssemblyProduct("UTDialogWarrior")]
-[assembly: AssemblyCopyright("Copyright © Altegrity 2013")]
+[assembly: AssemblyCompany("")]
+[assembly: AssemblyProduct("DialogWarriorUsage")]
+[assembly: AssemblyCopyright("")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 

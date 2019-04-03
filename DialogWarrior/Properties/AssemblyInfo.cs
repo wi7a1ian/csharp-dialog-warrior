@@ -8,9 +8,9 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyTitle("DialogWarrior")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("KrollOntrack")]
+[assembly: AssemblyCompany("")]
 [assembly: AssemblyProduct("DialogWarrior")]
-[assembly: AssemblyCopyright("Copyright © KrollOntrack 2013")]
+[assembly: AssemblyCopyright("")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 

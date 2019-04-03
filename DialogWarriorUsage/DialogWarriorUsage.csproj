@@ -8,8 +8,8 @@
     <ProjectGuid>{4B843000-FE5F-4A43-8120-617AB8771C82}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>UTDialogWarrior</RootNamespace>
-    <AssemblyName>UTDialogWarrior</AssemblyName>
+    <RootNamespace>Utils.DialogWarriorTests</RootNamespace>
+    <AssemblyName>Utils.DialogWarrior.Tests</AssemblyName>
     <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
     <TargetFrameworkProfile>Client</TargetFrameworkProfile>
     <FileAlignment>512</FileAlignment>
